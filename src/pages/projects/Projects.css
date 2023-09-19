@@ -1,0 +1,45 @@
+.page-header {
+    color:aqua;
+}
+
+.page-body {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 2rem;
+}
+
+.proj-container {
+    width: 30vw;
+}
+
+.ai-container {
+    padding-right:2rem;
+}
+
+.web-app-container {
+    padding-right:2rem;
+}
+
+.container {
+    min-width: 100vw;
+}
+
+.desc-content {
+    padding-left:1.5rem;
+    padding-right:1.5rem;
+    background-color: rgb(0, 13, 38);
+    border-radius: 2rem;
+    min-height: fit-content;
+    height:70vh;
+}
+
+.proj-desc {
+    font-size: x-large;
+    color:skyblue;
+    padding-bottom: 1rem;
+}
+
+.proj-title {
+    color:white;
+    padding-bottom:.5rem;
+}

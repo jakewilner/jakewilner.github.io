@@ -1,0 +1,49 @@
+.name-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 4rem;
+    min-width: fit-content;
+}
+
+.intro {
+    color:aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: left;
+    font-size: 2rem;
+    padding-left: 4rem;
+}
+
+.first-name {
+    color:lightblue;
+    text-align: left;
+    font-size: 15rem;
+    font-weight: bolder;
+    line-height: 85%;
+}
+
+.last-name {
+    color:white;
+    text-align: left;
+    font-size: 15rem;
+    font-weight: bolder;
+    line-height: 90%;
+}
+
+.description-container {
+    padding-top: 2rem;
+    width: 100vw;
+    min-width: 55rem;
+}
+
+.description {
+    padding-left: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color:aqua;
+    font-weight: bolder;
+    font-size: 2rem;
+    background-color: rgb(0, 13, 38);
+    height: calc(100vh - 36.85rem);
+    min-height: fit-content;
+}

@@ -1,0 +1,13 @@
+.page-body {
+    color: skyblue;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding-left: 5rem;
+}
+
+.page-header {
+    color: white;
+    font-size: 5rem;
+    font-weight: bolder;
+   padding-left: 5rem;
+}

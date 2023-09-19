@@ -1,0 +1,55 @@
+.contact-button {
+    width: 15rem;
+    height: 5rem;
+    background-color: skyblue;
+    color: rgb(0, 13, 38);
+    border: none;
+    border-radius: 1rem;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: large;
+  }
+
+  .contact-email {
+    padding-left:5rem;
+    padding-top: 3rem;
+    color:white;
+    font-weight: bolder;
+    font-size: 3rem;
+    padding-bottom: 3rem;
+  }
+
+  .social-container {
+    background-color: rgb(0, 13, 38);
+    width:100vw;
+    min-width:55rem;
+    min-height: fit-content;
+    height:55.2vh;
+  }
+
+  .contact-social {
+    padding-top: 1.5rem;
+    padding-left:5rem;
+    color:skyblue;
+    font-weight: bolder;
+    font-size: 3rem;
+  }
+
+  .social-links {
+    padding-left:5rem;
+    padding-bottom:3rem;
+  }
+
+  .linked-in-img {
+    height: 10rem;
+    padding-right: 2rem;
+  }
+
+  .indeed-img {
+    height: 10rem;
+    border-radius: .65rem;
+  }
+
+  .page-header {
+    color:aqua
+  }

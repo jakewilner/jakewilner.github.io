@@ -1,0 +1,44 @@
+.about-text {
+  color:lightblue;
+  font-size: 1.75rem;
+  font-weight: bolder;
+  width: 50vw;
+  padding-left: 5rem;
+  padding-bottom: 2rem;
+}
+
+.map-graphics {
+  width: 50vw;
+}
+
+.about-title {
+  color:aqua;
+    text-align: left;
+    font-size: 15rem;
+    font-weight: bolder;
+    line-height: 85%;
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    padding-left: 5rem;
+}
+
+.about-header {
+  color:white;
+  font-size: 3rem;
+  font-weight: bolder;
+  width: 50vw;
+  padding-left: 5rem;
+}
+
+.brown-logo {
+  max-height: 15rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.page-content {
+  display: flex;
+  flex-direction: row;
+  min-width:65rem;
+}
