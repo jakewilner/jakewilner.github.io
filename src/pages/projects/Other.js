@@ -16,9 +16,9 @@ const OtherWork = () => {
                     bird. After a night in my room on max speed, with a desk fan used for cooling, it was scoring over 10,000.
                     A lot of my early coding projects were games, and the two that I first used animation and physics in were 
                     a version of Doodle Jump, and Jetpack. These projects helped me learn proper animation and use of acceleration
-                    vectors for object movement in Java. I also developed some web apps, like my D&D dice roller. It was taking me
-                    a long time to calculate out attacks and damage, so I made a small app to do it for me. Another web app is the
-                    website that you're currently on!
+                    vectors for object movement in Java. All of those projects are bundled into one "Arcade" project. I also developed 
+                    some web apps, like my D&D dice roller. It was taking me a long time to calculate out attacks and damage, so I made 
+                    a small app to do it for me. Another web app is the website that you're currently on!
                 </div>
                 <div className='links-graphics-container'>
                     <div className='links'>
@@ -30,7 +30,7 @@ const OtherWork = () => {
                     <div className='links-other'>
                         Web app links:
                         <ul>
-                            <li>Or peek at the <a>GitHub</a> for the site you're on right now!</li>
+                            <li>Or peek at the <a href='https://github.com/jakewilner/jakewilner.github.io/tree/main' target='_blank'>GitHub</a> for the site you're on right now!</li>
                         </ul>
                     </div>
                 </div>
