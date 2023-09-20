@@ -1,8 +1,9 @@
-.page-body {
+.not-found-body {
     color: skyblue;
     font-size: 3rem;
     font-weight: bolder;
     padding-left: 5rem;
+    width: 80vw;
 }
 
 .page-header {

@@ -4,8 +4,8 @@ const Projects = () => {
     return(
         <div className="container">
             <div className='page-header'>Projects</div>
-            <div className='page-body'>
-                <div className='ai-container proj-container'>
+            <div className='project-body'>
+                <div className='proj-container'>
                     <div className='desc-content'>
                         <div className='ai-title proj-title'>
                             Artificial Intelligence
@@ -19,7 +19,7 @@ const Projects = () => {
                         </div>
                     </div>
                 </div>
-                <div className='web-app-container proj-container'>
+                <div className='proj-container'>
                     <div className='desc-content'>
                         <div className='web-app-title proj-title'>
                             Web Applications
@@ -33,7 +33,7 @@ const Projects = () => {
                     </div>
                     
                 </div>
-                <div className='game-container proj-container'>
+                <div className='proj-container'>
                     <div className='desc-content'>
                         <div className='game-title proj-title'>
                             Games

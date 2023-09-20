@@ -4,9 +4,9 @@ const Empty = () => {
     return(
         <div className="container">
             <h1 className='page-header'>Page not found</h1>
-            <p className='page-body'>
+            <div className='not-found-body'>
                 Sorry, the provided url doesn't lead anywhere!
-            </p>
+            </div>
         </div>
     )
 }
