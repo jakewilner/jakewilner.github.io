@@ -3,13 +3,14 @@
 }
 
 .page-body {
-    display: flex;
-    flex-direction: row;
     padding-bottom: 2rem;
+    min-height: fit-content;
+    min-width: 100rem;
 }
 
 .proj-container {
     width: 30vw;
+    min-height: fit-content;
 }
 
 .ai-container {
@@ -20,17 +21,20 @@
     padding-right:2rem;
 }
 
-.container {
-    min-width: 100vw;
+
+
+.page-content {
+    min-height: fit-content;
 }
 
 .desc-content {
     padding-left:1.5rem;
     padding-right:1.5rem;
+    margin-top:1.5rem;
     background-color: rgb(0, 13, 38);
     border-radius: 2rem;
     min-height: fit-content;
-    height:70vh;
+    width: 80vw;
 }
 
 .proj-desc {

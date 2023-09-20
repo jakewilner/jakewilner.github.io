@@ -1,8 +1,6 @@
 .App { 
     background-color:rgb(0, 22, 65);
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+
     background-size: cover;
     min-width: 55rem;
   }

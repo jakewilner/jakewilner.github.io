@@ -1,7 +1,6 @@
 import "./Home.css"
 import "./pages.css"
 import ReactTyped from "react-typed"
-import { Link } from "react-router-dom"
 
 const Home = () => {
     return(
@@ -33,9 +32,9 @@ const Home = () => {
                     >
                 </ReactTyped><br/><br/>
 
-                Learn more <a href="/about">about me</a>.<br/>
-                Get in <a href="/contact">contact</a>.<br/>
-                See my <a href="/projects">projects</a>.
+                Learn more <a href="/#/about">about me</a>.<br/>
+                Get in <a href="/#/contact">contact</a>.<br/>
+                See my <a href="/#/projects">projects</a>.
 
                 </div>
             </div>

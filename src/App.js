@@ -1,7 +1,7 @@
 import './App.css';
 import './pages/pages.css'
 import MyNavbar from './components/Navbar';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import About from './pages/About';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
@@ -18,9 +18,9 @@ function App() {
         <MyNavbar/>
       </div>
       <div className="page-content">
-          <BrowserRouter>
+          <HashRouter basename='/'>
             <Routes>
-                <Route path="/" element={<Home/>} />
+                <Route exact path="/" element={<Home/>} />
                 <Route path="/about" element={<About/>} />
                 <Route path="/contact" element={<Contact/>} />
                 <Route path="/projects" element={<Projects/>} />
@@ -29,7 +29,7 @@ function App() {
                 <Route path="/projects/other" element={<OtherWork/>} />
                 <Route path="*" element={<Empty/>} />
             </Routes>
-          </BrowserRouter>
+          </HashRouter>
         </div>
     </div>
   );

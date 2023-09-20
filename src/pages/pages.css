@@ -1,7 +1,6 @@
 .container {
     width: 100vw;
-    height: calc(100vh - 3.6rem);
-    min-height: fit-content;
+    min-height: calc(100vh - 3.6rem);
     padding-top: 2rem;
     padding-left: 0%;
     align-content: left;
