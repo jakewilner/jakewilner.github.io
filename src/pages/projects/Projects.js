@@ -25,7 +25,7 @@ const Projects = () => {
                             Web Applications
                         </div>
                         <div className='proj-desc'>
-                            Most recently, I created a <a href="/#/forex">Forex trading assistant</a>. This web app pulled data
+                            Most recently, I created a <a href="/#/projects/forex">Forex trading assistant</a>. This web app pulled data
                             on inflation and interest rates from live APIs, for a number of major countries. It also calculated 
                             an inflation index score for each of those countries. I have done other work with APIs, on the back-end
                             and have done front-end development in React. One example of that is the site that you're currently on!
@@ -41,7 +41,7 @@ const Projects = () => {
                         <div className='proj-desc'>
                             Early on in my programming career, I started out programming games. One example of this is my collection of games, <a href='/#/projects/other'>Arcade</a>. 
                             There's Flappy Bird, Tetris, Doodle Jump, and even hints of machine learning. If we go back even farther, we can see my true
-                            programming origins, in my <a href="https://scratch.mit.edu/users/jakewwilner/">Scratch profile</a>. This is where I 
+                            programming origins, in my <a href="https://scratch.mit.edu/users/jakewwilner/" target='_blank'>Scratch profile</a>. This is where I 
                             first discovered that I loved to program, and wanted to do it for real (in middle school)!
                         </div>
                     </div>
