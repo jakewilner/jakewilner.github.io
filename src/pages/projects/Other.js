@@ -12,7 +12,7 @@ const OtherWork = () => {
                 <div className='body-content'>
                     This section is devoted to all of the other work that isn't exactly highlighted, but is important work
                     in between my current projects and my start in coding. One such project is Evolution, my first interaction
-                    with artifical intelligence/machine learning. This project taught a computer how to play a version of flappy
+                    with artificial intelligence/machine learning. This project taught a computer how to play a version of flappy
                     bird. After a night in my room on max speed, with a desk fan used for cooling, it was scoring over 10,000.
                     A lot of my early coding projects were games, and the two that I first used animation and physics in were 
                     a version of Doodle Jump, and Jetpack. These projects helped me learn proper animation and use of acceleration
